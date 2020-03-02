@@ -1,0 +1,12 @@
+A EMPRESA X QUER REALIZAR VIAGENS UTILIZANDO CARRIS VOADORES COM O PRECO DA VIAGEM DE ATE 10 DOLARES
+
+	Analise
+O sistema vai procurar um carro mais proximo da pessoa que solicitou para gastar menos combustivel, um motorista com
+permissao de conduzir um carro voador, um carro mais economico, considerar se o clima esta proporcional a uma viagem 
+segura, colocar opções de pagamento como debito, credito e dinheiro.
+
+	Design
+Sera utilizado Banco de dados, para armazenar os dados dos clientes, Visual Studio Code para fazer a codificacao do sistema
+
+	Codificacao
+O programa dera feito na linguagem python, pois e a linguagem que eu mais domino.
