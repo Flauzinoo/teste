@@ -6,7 +6,8 @@ permissao de conduzir um carro voador, um carro mais economico, considerar se o 
 segura, colocar opções de pagamento como debito, credito e dinheiro.
 
 	Design
-Sera utilizado Banco de dados, para armazenar os dados dos clientes, Visual Studio Code para fazer a codificacao do sistema
+Sera utilizado Banco de dados, para armazenar os dados dos clientes, Visual Studio Code para fazer a codificacao do 
+sistema.
 
 	Codificacao
 O programa dera feito na linguagem python, pois e a linguagem que eu mais domino.
